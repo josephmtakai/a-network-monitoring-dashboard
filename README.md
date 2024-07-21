@@ -1,4 +1,5 @@
 Network Monitoring Dashboard
+
 A real-time network monitoring dashboard that displays network statistics and alerts for potential security issues. Built with Flask for the backend and HTML/CSS for the frontend, utilizing Python libraries psutil and scapy to gather network data.
 
 Features

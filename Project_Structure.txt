@@ -1,0 +1,12 @@
+network_monitoring_dashboard/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── utils.py
+├── static/
+│   └── styles.css
+├── templates/
+│   ├── index.html
+├── network_monitor.py
+├── config.py
+└── run.py
